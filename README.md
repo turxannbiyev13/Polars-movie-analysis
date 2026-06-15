@@ -9,6 +9,11 @@ This analysis was developed using Google Colab and focuses on:
 * **Data Cleaning**: Handling missing values and ensuring data integrity.
 * **Exploratory Data Analysis (EDA)**: Computing average ratings, genre distributions, and user activity metrics using Polars' high-performance syntax.
 
+## 📂 Dataset
+The original dataset used in this project is hosted externally due to file size constraints. You can access the data files here:
+
+[Download Movie Analysis Dataset from Google Drive](https://drive.google.com/drive/folders/1JJxpN6-9CZJe2emIMj-sIGpZDt_gUorm?usp=sharing)
+
 ## Dataset Structure
 The analysis is based on the following files:
 
